@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "lcg-infodesign-2026-2027"
+assignment: "2026-01"
+owner:
+  username: "nicolapreda"
+  id: 64780086
+  accepted_at: "2026-10-06T12:51:00Z"
+source:
+  owner: "lcg-infodesign"
+  owner_id: 179685124
+  repo: "P5-empty-project"
+  branch: "main"
